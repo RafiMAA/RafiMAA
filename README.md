@@ -61,7 +61,7 @@ Working with the Unitree G1 humanoid robot on robotic localization and navigatio
 
 `Unitree G1` `ROS 2` `Python` `Robotics` `Navigation`
 
-<br/>
+---
 
 ### 🚗 QBot Mapping & Navigation
 **ROS 2 • SLAM • LiDAR • Autonomous Navigation**
@@ -78,7 +78,7 @@ Autonomous indoor navigation project focused on mapping an environment and navig
 
 `ROS 2` `SLAM` `LiDAR` `Nav2` `Python`
 
-<br/>
+---
 
 ### 🚁 Autonomous Bathymetric Survey System
 **ROS 2 • ArduPilot • Computer Vision • Autonomy**
@@ -95,7 +95,7 @@ An autonomous reservoir-survey platform integrating mission planning, robotic na
 
 `ROS 2` `ArduPilot` `Gazebo` `OpenCV` `React`
 
-<br/>
+---
 
 ### 🖥️ Nano Processor
 **VHDL • FPGA • Digital Systems**
@@ -134,7 +134,7 @@ A skin-cancer classification pipeline combining classification with complementar
 
 `ResNet50` `ViT` `OOD Detection` `Open-Set Recognition`
 
-<br/>
+---
 
 ### 👁️ Evidence-Order Calibration for VLMs
 **Vision-Language Models • Reliable AI • Calibration**
@@ -152,7 +152,7 @@ A research study on whether a Vision-Language Model's confidence correctly track
 
 `Qwen2.5-VL` `PyTorch` `Calibration` `Uncertainty`
 
-<br/>
+---
 
 ### ⚙️ Reliable Machine-Failure Prediction
 **Machine Learning • Predictive Maintenance • Reliable AI**
@@ -183,7 +183,7 @@ Additional robotics, embedded, simulation and hardware projects across my reposi
 
 <a href="https://github.com/RafiMAA?tab=repositories"><img src="https://img.shields.io/badge/View_All_Projects-7C3AED?style=flat-square&logo=github&logoColor=white"/></a>
 
-<br/>
+---
 
 ### 💻 Software & Networking Projects
 Additional projects covering backend development, computer networking, APIs and engineering tools.
