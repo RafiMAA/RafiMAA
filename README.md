@@ -165,6 +165,7 @@ A skin-cancer classification pipeline combining classification with complementar
 <br/>
 
 <a href="https://github.com/aacaas5/dual-signal-ood-gating-for-skin-cancer-detection"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/aacaas5/dual-signal-ood-gating-for-skin-cancer-detection/blob/main/VLM%20%E2%80%93%20Gated%20Open%20Set%20Control%20for%20CNN.pdf"><img src="https://img.shields.io/badge/Report-Read_PDF-FF4B4B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -187,6 +188,7 @@ A research study on whether a Vision-Language Model's confidence correctly track
 <br/>
 
 <a href="https://github.com/aacaas5/evidence-order-calibration-vlm"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/aacaas5/evidence-order-calibration-vlm/blob/main/paper/main.pdf"><img src="https://img.shields.io/badge/Paper-Read_PDF-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -211,6 +213,7 @@ A reliability-focused study on equipment-failure prediction under class imbalanc
 <br/>
 
 <a href="https://github.com/aacaas5/reliable-machine-failure-prediction-under-imbalanced-and-corrupted-sensor-data"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/aacaas5/reliable-machine-failure-prediction-under-imbalanced-and-corrupted-sensor-data/blob/main/publication/paper/main.pdf"><img src="https://img.shields.io/badge/Paper-Read_PDF-FF9800?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 
 <br/><br/>
 
