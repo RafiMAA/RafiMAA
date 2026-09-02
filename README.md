@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:0EA5E9,50:22D3EE,75:14B8A6,100:22C55E&height=210&section=header&text=ABDUL%20RAFI&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Robotics%20%7C%20Artificial%20Intelligence%20%7C%20Computer%20Engineering&descSize=16&descAlignY=57" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:0EA5E9,50:22D3EE,75:14B8A6,100:22C55E&height=210&section=header&text=ABDUL%20RAFI&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Robotics%20%7C%20Artificial%20Intelligence%20%7C%20Computer%20Science%20and%20Engineering&descSize=16&descAlignY=57" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Robotics+%2B+Artificial+Intelligence+%F0%9F%A4%96;ROS+2+%E2%80%A2+Autonomous+Systems+%E2%80%A2+Computer+Vision;Machine+Learning+%E2%80%A2+Reliable+AI+%E2%80%A2+Embedded+Systems;From+Physical+Systems+to+Intelligent+Machines+%E2%9A%A1" alt="Typing SVG" />
 
@@ -21,7 +21,7 @@
 
 # 👨‍💻 About Me
 
-I'm a **Computer Engineering undergraduate at the University of Moratuwa, Sri Lanka**, with strong interests across **robotics, artificial intelligence, computer vision, embedded systems, networking, and autonomous systems**.
+I'm a **Computer Science & Engineering undergraduate at the University of Moratuwa, Sri Lanka**, with strong interests across **robotics, artificial intelligence, computer vision, embedded systems, networking, and autonomous systems**.
 
 My coursework and projects span **embedded systems, computer networking, robotics, and IoT**, and I like exploring intelligent systems from both the **physical engineering** side and the **computational/AI** side — where sensors, embedded controllers, and machine learning models have to work together reliably in the real world.
 
@@ -267,7 +267,7 @@ Python · C++ · Java · JavaScript · TypeScript · FastAPI · React · Node.js
 <div align="center">
 
 ### University of Moratuwa
-**B.Sc. Engineering — Computer Engineering**
+**B.Sc. Engineering — Computer Science & Engineering**
 Sri Lanka
 
 </div>
