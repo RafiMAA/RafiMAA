@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:0EA5E9,50:22D3EE,75:14B8A6,100:22C55E&height=210&section=header&text=ABDUL%20RAFI&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Computer%20Science%20and%20Engineering%20%7C%20Robotics%20%7C%20Artificial%20Intelligence%20%7C%20Machine%20Learning&descSize=16&descAlignY=57" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:0EA5E9,50:22D3EE,75:14B8A6,100:22C55E&height=210&section=header&text=ABDUL%20RAFI&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Computer%20Science%20and%20Engineering%20%7C%20Robotics%20%7C%20Artificial%20Intelligence&descSize=16&descAlignY=57" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Robotics+%2B+Artificial+Intelligence+%F0%9F%A4%96;ROS+2+%E2%80%A2+Autonomous+Systems+%E2%80%A2+Computer+Vision;Machine+Learning+%E2%80%A2+Reliable+AI+%E2%80%A2+Embedded+Systems;From+Physical+Systems+to+Intelligent+Machines+%E2%9A%A1" alt="Typing SVG" />
 
