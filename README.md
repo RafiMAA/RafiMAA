@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,25:7C3AED,50:F72585,75:FF8C42,100:00E5A8&height=210&section=header&text=ABDUL%20RAFI&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Robotics%20%7C%20Artificial%20Intelligence%20%7C%20Computer%20Engineering&descSize=16&descAlignY=57" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:0EA5E9,50:22D3EE,75:14B8A6,100:22C55E&height=210&section=header&text=ABDUL%20RAFI&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Robotics%20%7C%20Artificial%20Intelligence%20%7C%20Computer%20Engineering&descSize=16&descAlignY=57" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Robotics+%2B+Artificial+Intelligence+%F0%9F%A4%96;ROS+2+%E2%80%A2+Autonomous+Systems+%E2%80%A2+Computer+Vision;Machine+Learning+%E2%80%A2+Reliable+AI+%E2%80%A2+Embedded+Systems;From+Physical+Systems+to+Intelligent+Machines+%E2%9A%A1" alt="Typing SVG" />
 
@@ -355,21 +355,6 @@ Sri Lanka
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RafiMAA&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafiMAA&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafiMAA&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 🌟 Engineering & Research Values
 
 <table>
@@ -423,6 +408,6 @@ Interested in engineering, research and collaboration involving
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5A8,25:00D4FF,50:7C3AED,75:F72585,100:FF8C42&height=140&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,25:14B8A6,50:22D3EE,75:0EA5E9,100:0F172A&height=140&section=footer" width="100%" />
 
 </div>
