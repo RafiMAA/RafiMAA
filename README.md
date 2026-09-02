@@ -45,10 +45,6 @@ My coursework and projects span **embedded systems, computer networking, robotic
 
 ## 🤖 Robotics • Autonomous Systems • Embedded Intelligence
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🦾 Unitree G1 EDU Robot
 **Humanoid Robotics • ROS 2 • Localization • Navigation**
 
@@ -61,16 +57,11 @@ Working with the Unitree G1 humanoid robot on robotic localization and navigatio
 - Sensor integration
 - Real-world robotic experimentation
 
-<br/>
-
 <a href="https://github.com/RafiMAA/Unitree_G1_EDU_Robot"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
 
 `Unitree G1` `ROS 2` `Python` `Robotics` `Navigation`
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### 🚗 QBot Mapping & Navigation
 **ROS 2 • SLAM • LiDAR • Autonomous Navigation**
@@ -83,18 +74,11 @@ Autonomous indoor navigation project focused on mapping an environment and navig
 - Localization
 - Goal navigation
 
-<br/>
-
 <a href="https://github.com/RafiMAA/Qbot_mapping_and_navigating_to_the_goal"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
 
 `ROS 2` `SLAM` `LiDAR` `Nav2` `Python`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
 ### 🚁 Autonomous Bathymetric Survey System
 **ROS 2 • ArduPilot • Computer Vision • Autonomy**
@@ -107,16 +91,11 @@ An autonomous reservoir-survey platform integrating mission planning, robotic na
 - Sonar depth acquisition
 - Real-time telemetry & 3D visualization
 
-<br/>
-
 <a href="https://github.com/RafiMAA/ROS2_Autonomous_Bathymetric_Survey_System_with_Ardupilot"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
 
 `ROS 2` `ArduPilot` `Gazebo` `OpenCV` `React`
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### 🖥️ Nano Processor
 **VHDL • FPGA • Digital Systems**
@@ -129,27 +108,15 @@ A hardware-oriented processor implementation built as a digital systems and FPGA
 - FPGA verification
 - System-level digital design
 
-<br/>
-
 <a href="https://github.com/RafiMAA/Nano_Processor"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br/><br/>
-
 `VHDL` `FPGA` `Digital Systems` `Processor`
-
-</td>
-</tr>
-</table>
 
 ---
 
 # 🤝 Collaborative Research Projects
 
 > Research collaborations involving **reliable AI, machine learning, computer vision, and multimodal models**.
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### 🩺 Dual-Signal OOD Gating for Skin Cancer Detection
 **Computer Vision • Open-Set Recognition • Reliable AI**
@@ -162,17 +129,12 @@ A skin-cancer classification pipeline combining classification with complementar
 - Energy + ReAct scoring
 - Open-set rejection & confidence analysis
 
-<br/>
-
 <a href="https://github.com/aacaas5/dual-signal-ood-gating-for-skin-cancer-detection"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/aacaas5/dual-signal-ood-gating-for-skin-cancer-detection/blob/main/VLM%20%E2%80%93%20Gated%20Open%20Set%20Control%20for%20CNN.pdf"><img src="https://img.shields.io/badge/Report-Read_PDF-FF4B4B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 
-<br/><br/>
-
 `ResNet50` `ViT` `OOD Detection` `Open-Set Recognition`
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### 👁️ Evidence-Order Calibration for VLMs
 **Vision-Language Models • Reliable AI • Calibration**
@@ -185,19 +147,12 @@ A research study on whether a Vision-Language Model's confidence correctly track
 - Calibration and uncertainty analysis
 - Controlled experiments & ablations
 
-<br/>
-
 <a href="https://github.com/aacaas5/evidence-order-calibration-vlm"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/aacaas5/evidence-order-calibration-vlm/blob/main/paper/main.pdf"><img src="https://img.shields.io/badge/Paper-Read_PDF-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 
-<br/><br/>
-
 `Qwen2.5-VL` `PyTorch` `Calibration` `Uncertainty`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
 ### ⚙️ Reliable Machine-Failure Prediction
 **Machine Learning • Predictive Maintenance • Reliable AI**
@@ -210,50 +165,16 @@ A reliability-focused study on equipment-failure prediction under class imbalanc
 - SHAP explainability
 - Failure analysis
 
-<br/>
-
 <a href="https://github.com/aacaas5/reliable-machine-failure-prediction-under-imbalanced-and-corrupted-sensor-data"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/aacaas5/reliable-machine-failure-prediction-under-imbalanced-and-corrupted-sensor-data/blob/main/publication/paper/main.pdf"><img src="https://img.shields.io/badge/Paper-Read_PDF-FF9800?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 
-<br/><br/>
-
 `Random Forest` `SHAP` `Sensor Data` `Robustness`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤝 Collaborative Engineering
-**Team Projects • System Integration • Engineering**
-
-Collaborative engineering work integrating software, hardware, sensors, robotics and intelligent systems with fellow researchers.
-
-**Focus Areas**
-- System integration
-- Robotics & embedded systems
-- Machine learning
-- Team-based development
-
-<br/>
-
-<a href="https://github.com/RafiMAA?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_Collaborations-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-`Collaboration` `System Integration` `Robotics` `AI`
-
-</td>
-</tr>
-</table>
 
 > ⚕️ The skin-cancer project is a **research prototype** and is not a validated medical device.
 
 ---
 
 # 🗂️ More Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### 🧪 More Robotics & Embedded Work
 Additional robotics, embedded, simulation and hardware projects across my repositories.
@@ -262,8 +183,7 @@ Additional robotics, embedded, simulation and hardware projects across my reposi
 
 <a href="https://github.com/RafiMAA?tab=repositories"><img src="https://img.shields.io/badge/View_All_Projects-7C3AED?style=flat-square&logo=github&logoColor=white"/></a>
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### 💻 Software & Networking Projects
 Additional projects covering backend development, computer networking, APIs and engineering tools.
@@ -271,10 +191,6 @@ Additional projects covering backend development, computer networking, APIs and 
 **Areas:** Python · C++ · JavaScript · Networking · FastAPI · React · Node.js
 
 <a href="https://github.com/RafiMAA?tab=repositories"><img src="https://img.shields.io/badge/View_Repositories-7C3AED?style=flat-square&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 <br/>
