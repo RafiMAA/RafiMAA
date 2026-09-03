@@ -58,6 +58,7 @@ Working with the Unitree G1 humanoid robot on robotic localization and navigatio
 - Real-world robotic experimentation
 
 <a href="https://github.com/RafiMAA/Unitree_G1_EDU_Robot"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/RafiMAA/Unitree_G1_EDU_Robot/blob/main/docs/paper/g1_paper.pdf"><img src="https://img.shields.io/badge/Paper-Read_PDF-0EA5E9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 
 `Unitree G1` `ROS 2` `Python` `Robotics` `Navigation`
 
@@ -75,6 +76,7 @@ Autonomous indoor navigation project focused on mapping an environment and navig
 - Goal navigation
 
 <a href="https://github.com/RafiMAA/Qbot_mapping_and_navigating_to_the_goal"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/RafiMAA/Qbot_mapping_and_navigating_to_the_goal/blob/main/docs/paper/qbot_paper.pdf"><img src="https://img.shields.io/badge/Paper-Read_PDF-22C55E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 
 `ROS 2` `SLAM` `LiDAR` `Nav2` `Python`
 
@@ -92,6 +94,7 @@ An autonomous reservoir-survey platform integrating mission planning, robotic na
 - Real-time telemetry & 3D visualization
 
 <a href="https://github.com/RafiMAA/ROS2_Autonomous_Bathymetric_Survey_System_with_Ardupilot"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/RafiMAA/ROS2_Autonomous_Bathymetric_Survey_System_with_Ardupilot/blob/main/docs/paper/bathymetric_survey_paper.pdf"><img src="https://img.shields.io/badge/Paper-Read_PDF-14B8A6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 
 `ROS 2` `ArduPilot` `Gazebo` `OpenCV` `React`
 
