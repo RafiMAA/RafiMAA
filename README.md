@@ -324,8 +324,8 @@ Interested in engineering, research and collaboration involving
 
 <br/>
 
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:abdulr.23@cse.mrt.ac.lk"><img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdul-rafima"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/RafiMAA?tab=repositories"><img src="https://img.shields.io/badge/MY_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
