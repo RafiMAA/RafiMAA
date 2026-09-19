@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:0EA5E9,50:22D3EE,75:14B8A6,100:22C55E&height=210&section=header&text=ABDUL%20RAFI&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Computer%20Science%20and%20Engineering%20%7C%20Robotics%20%7C%20Artificial%20Intelligence&descSize=16&descAlignY=57" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Robotics+%2B+Artificial+Intelligence+%F0%9F%A4%96;ROS+2+%E2%80%A2+Autonomous+Systems+%E2%80%A2+Computer+Vision;Machine+Learning+%E2%80%A2+Reliable+AI+%E2%80%A2+Embedded+Systems;From+Physical+Systems+to+Intelligent+Machines+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Robotics+%2B+Artificial+Intelligence+%F0%9F%A4%96;ROS+2+%E2%80%A2+Autonomous+Systems+%E2%80%A2+Computer+Vision;Full-Stack+%E2%80%A2+LLM+Applications+%E2%80%A2+Embedded+Systems;From+Physical+Systems+to+Intelligent+Machines+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 
@@ -15,7 +15,7 @@
 <img src="https://komarev.com/ghpvc/?username=RafiMAA&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/RafiMAA?label=FOLLOWERS&style=for-the-badge&color=00b8d9"/>
 
-</div> 
+</div>
 
 ---
 
@@ -41,7 +41,6 @@ I also work on **distributed systems** (Kafka, MQTT, Kubernetes) and, above all,
 ---
 
 # 🚀 Featured Projects
-
 
 ### 🎓 School Management System
 **Real Client Project • React • FastAPI • Supabase • PostgreSQL • Mobile + Push Notifications**
@@ -80,7 +79,6 @@ Working with the Unitree G1 humanoid robot on robotic localization and navigatio
 `Unitree G1` `ROS 2` `Python` `Robotics` `Navigation` `LLM` `RAG`
 
 ---
-
 
 ### 🚗 QBot Mapping & Navigation
 **ROS 2 • SLAM • LiDAR • Autonomous Navigation**
@@ -191,8 +189,8 @@ ROS 2 · Autonomous navigation · Localization · SLAM · LiDAR-based perception
 </td>
 <td width="50%" valign="top">
 
-## 🧠 Machine Learning & AI
-Supervised learning · Neural networks · Deep learning · Computer vision · Classification · OOD detection · Model calibration · Reliable AI
+## 🧠 AI & LLM Applications
+LLMs · Retrieval-Augmented Generation (RAG) · Computer vision · AI-powered applications
 
 </td>
 </tr>
@@ -222,11 +220,6 @@ Python · C++ · Java · JavaScript · TypeScript · FastAPI · React · Node.js
 <img src="https://skillicons.dev/icons?i=ros,linux&theme=dark"/>
 
 <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/Nav2-0EA5E9?style=for-the-badge"/> <img src="https://img.shields.io/badge/SLAM-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/LiDAR-0891B2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge"/> <img src="https://img.shields.io/badge/ArduPilot-0D7FBD?style=for-the-badge"/>
-
-## 🧠 Machine Learning • AI
-<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn&theme=dark"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 ## 🔌 Embedded • Networking • Hardware
 <img src="https://skillicons.dev/icons?i=arduino&theme=dark"/>
@@ -269,7 +262,7 @@ Understand the physical system, constraints and operating environment.
 
 ### 🧠
 **Intelligent Systems**
-Use learning and automation where they meaningfully improve the system.
+Use automation and AI where they meaningfully improve the system.
 
 </td>
 <td align="center" width="25%">
@@ -297,7 +290,7 @@ Build experiments and systems that can be understood, tested and repeated.
 
 Interested in engineering, research and collaboration involving
 
-### 🤖 Robotics & Autonomous Systems · 🧠 AI & Machine Learning · 🔌 Embedded Systems & Networking · 🛡️ Reliable AI
+### 🤖 Robotics & Autonomous Systems · 💻 Full-Stack & LLM Applications · 🔌 Embedded Systems & Networking
 
 <br/>
 
