@@ -42,6 +42,25 @@ I also work on **distributed systems** (Kafka, MQTT, Kubernetes) and, above all,
 
 # 🚀 Featured Projects
 
+
+### 🎓 School Management System
+**Real Client Project • React • FastAPI • Supabase • PostgreSQL • Mobile + Push Notifications**
+
+A production attendance and student management platform built for **Al Meera Ahadiya School, Matara**, a school of around 700 students. Teachers mark weekly attendance, administrators manage students, classes and yearly promotions, and everyone gets automated reminders.
+
+**Highlights**
+- Full-stack system used by real staff at a real school: React + TypeScript web app, React Native mobile app, FastAPI REST backend and Supabase (PostgreSQL) database
+- Role-based access for teachers, admins, principals and super admins, with a full audit log
+- Scheduled push notifications (Web Push, FCM, APNs) driven by GitHub Actions
+- Excel import wizard with row-level validation, plus automated PDF (ReportLab) and Excel (OpenPyXL) reports
+- End-to-end ownership: requirements, UI, API design, database schema, deployment and client support
+
+<a href="mailto:abdulr.23@cse.mrt.ac.lk?subject=Code%20access%20request%3A%20Ahadiya%20School%20Management%20System"><img src="https://img.shields.io/badge/Private_Repo-Access_on_Request-64748B?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+`React` `TypeScript` `React Native` `FastAPI` `Supabase` `PostgreSQL` `Python` `Web Push` `GitHub Actions`
+
+---
+
 ### 🦾 Unitree G1 EDU Robot
 **Humanoid Robotics • ROS 2 • Localization • Navigation • LLM + RAG**
 
@@ -62,23 +81,6 @@ Working with the Unitree G1 humanoid robot on robotic localization and navigatio
 
 ---
 
-### 🎓 Ahadiya School Management System
-**Real Client Project • React • FastAPI • Supabase • PostgreSQL • Mobile + Push Notifications**
-
-A production attendance and student management platform built for **Al Meera Ahadiya School, Matara**, a school of around 700 students. Teachers mark weekly attendance, administrators manage students, classes and yearly promotions, and everyone gets automated reminders.
-
-**Highlights**
-- Full-stack system used by real staff at a real school: React + TypeScript web app, React Native mobile app, FastAPI REST backend and Supabase (PostgreSQL) database
-- Role-based access for teachers, admins, principals and super admins, with a full audit log
-- Scheduled push notifications (Web Push, FCM, APNs) driven by GitHub Actions
-- Excel import wizard with row-level validation, plus automated PDF (ReportLab) and Excel (OpenPyXL) reports
-- End-to-end ownership: requirements, UI, API design, database schema, deployment and client support
-
-<a href="mailto:abdulr.23@cse.mrt.ac.lk?subject=Code%20access%20request%3A%20Ahadiya%20School%20Management%20System"><img src="https://img.shields.io/badge/Private_Repo-Access_on_Request-64748B?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-`React` `TypeScript` `React Native` `FastAPI` `Supabase` `PostgreSQL` `Python` `Web Push` `GitHub Actions`
-
----
 
 ### 🚗 QBot Mapping & Navigation
 **ROS 2 • SLAM • LiDAR • Autonomous Navigation**
