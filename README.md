@@ -76,7 +76,7 @@ A full-stack web application for managing school and student data, with automate
 - Excel report export with OpenPyXL
 - End-to-end ownership: UI, API design, database and reporting
 
-<a href="https://github.com/RafiMAA/School-Student-Management-System"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/RafiMAA/School_Student_Management_System"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 `React` `FastAPI` `Supabase` `PostgreSQL` `Python` `ReportLab` `OpenPyXL`
 
