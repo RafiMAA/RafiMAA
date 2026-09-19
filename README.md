@@ -117,63 +117,21 @@ A hardware-oriented processor implementation built as a digital systems and FPGA
 
 ---
 
-# 🤝 Collaborative Research Projects
+# 🤝 Group Projects
 
-> Research collaborations involving **reliable AI, machine learning, computer vision, and multimodal models**.
+### 🚌 OnTime Distributed Transit System
+**Semester 04 Group Project • Kafka • MQTT • Distributed Systems**
 
-### 🩺 Dual-Signal OOD Gating for Skin Cancer Detection
-**Computer Vision • Open-Set Recognition • Reliable AI**
-
-A skin-cancer classification pipeline combining classification with complementary out-of-distribution rejection mechanisms to flag unsupported inputs before making a prediction.
+A distributed transit platform built as a team project, with services communicating through an event-driven architecture.
 
 **Highlights**
-- ResNet50 skin-lesion classifier
-- ViT embedding-distance signal
-- Energy + ReAct scoring
-- Open-set rejection & confidence analysis
+- Kafka-based event-driven communication
+- Mosquitto MQTT broker integration and configuration for real-time messaging between services
+- Contributions to the system's distributed messaging and communication infrastructure
 
-<a href="https://github.com/aacaas5/dual-signal-ood-gating-for-skin-cancer-detection"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/aacaas5/dual-signal-ood-gating-for-skin-cancer-detection/blob/main/VLM%20%E2%80%93%20Gated%20Open%20Set%20Control%20for%20CNN.pdf"><img src="https://img.shields.io/badge/Report-Read_PDF-FF4B4B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+<a href="https://github.com/OnTime-SE-G/ontime-g4"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-`ResNet50` `ViT` `OOD Detection` `Open-Set Recognition`
-
----
-
-### 👁️ Evidence-Order Calibration for VLMs
-**Vision-Language Models • Reliable AI • Calibration**
-
-A research study on whether a Vision-Language Model's confidence correctly tracks the progressive loss of question-critical visual evidence.
-
-**Highlights**
-- Evidence-loss trajectories
-- Lightweight reliability head on a frozen Qwen2.5-VL backbone
-- Calibration and uncertainty analysis
-- Controlled experiments & ablations
-
-<a href="https://github.com/aacaas5/evidence-order-calibration-vlm"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/aacaas5/evidence-order-calibration-vlm/blob/main/paper/main.pdf"><img src="https://img.shields.io/badge/Paper-Read_PDF-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
-
-`Qwen2.5-VL` `PyTorch` `Calibration` `Uncertainty`
-
----
-
-### ⚙️ Reliable Machine-Failure Prediction
-**Machine Learning • Predictive Maintenance • Reliable AI**
-
-A reliability-focused study on equipment-failure prediction under class imbalance, sensor corruption, missing measurements, and limited training data.
-
-**Highlights**
-- Random Forest classification
-- Sensor-noise & missing-measurement experiments
-- SHAP explainability
-- Failure analysis
-
-<a href="https://github.com/aacaas5/reliable-machine-failure-prediction-under-imbalanced-and-corrupted-sensor-data"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/aacaas5/reliable-machine-failure-prediction-under-imbalanced-and-corrupted-sensor-data/blob/main/publication/paper/main.pdf"><img src="https://img.shields.io/badge/Paper-Read_PDF-FF9800?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
-
-`Random Forest` `SHAP` `Sensor Data` `Robustness`
-
-> ⚕️ The skin-cancer project is a **research prototype** and is not a validated medical device.
+`Kafka` `MQTT` `Mosquitto` `Distributed Systems` `Event-Driven`
 
 ---
 
