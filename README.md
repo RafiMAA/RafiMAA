@@ -46,21 +46,39 @@ My coursework and projects span **embedded systems, computer networking, robotic
 ## 🤖 Robotics • Autonomous Systems • Embedded Intelligence
 
 ### 🦾 Unitree G1 EDU Robot
-**Humanoid Robotics • ROS 2 • Localization • Navigation**
+**Humanoid Robotics • ROS 2 • Localization • Navigation • LLM + RAG**
 
-Working with the Unitree G1 humanoid robot on robotic localization and navigation, integrating perception, sensing and autonomous behaviours.
+Working with the Unitree G1 humanoid robot on robotic localization and navigation, integrating perception, sensing and autonomous behaviours, together with an LLM-powered Retrieval-Augmented Generation (RAG) system.
 
 **Highlights**
 - ROS 2 integration
 - Humanoid robotics
 - Robot localization & autonomous navigation
 - Sensor integration
+- LLM-based RAG system that grounds model responses in retrieved knowledge
 - Real-world robotic experimentation
 
 <a href="https://github.com/RafiMAA/Unitree_G1_EDU_Robot"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/RafiMAA/Unitree_G1_EDU_Robot/blob/main/docs/paper/g1_paper.pdf"><img src="https://img.shields.io/badge/Paper-Read_PDF-0EA5E9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 
-`Unitree G1` `ROS 2` `Python` `Robotics` `Navigation`
+`Unitree G1` `ROS 2` `Python` `Robotics` `Navigation` `LLM` `RAG`
+
+---
+
+### 🎓 School Management System
+**Full-Stack • React • FastAPI • Supabase • PostgreSQL**
+
+A full-stack web application for managing school and student data, with automated report generation.
+
+**Highlights**
+- Full-stack architecture: React frontend, FastAPI REST backend, Supabase (PostgreSQL) database
+- Automated PDF reports with ReportLab
+- Excel report export with OpenPyXL
+- End-to-end ownership: UI, API design, database and reporting
+
+<a href="https://github.com/RafiMAA/School-Student-Management-System"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+`React` `FastAPI` `Supabase` `PostgreSQL` `Python` `ReportLab` `OpenPyXL`
 
 ---
 
