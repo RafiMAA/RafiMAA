@@ -120,18 +120,19 @@ A hardware-oriented processor implementation built as a digital systems and FPGA
 # 🤝 Group Projects
 
 ### 🚌 OnTime Distributed Transit System
-**Semester 04 Group Project • Kafka • MQTT • Distributed Systems**
+**Semester 04 Group Project • Kafka • MQTT • Kubernetes • Distributed Systems**
 
-A distributed transit platform built as a team project, with services communicating through an event-driven architecture.
+A distributed transit platform built as a team project, with services communicating through an event-driven architecture and deployed on Kubernetes.
 
 **Highlights**
 - Kafka-based event-driven communication
 - Mosquitto MQTT broker integration and configuration for real-time messaging between services
+- Kubernetes-based deployment and orchestration of the platform's services
 - Contributions to the system's distributed messaging and communication infrastructure
 
 <a href="https://github.com/OnTime-SE-G/ontime-g4"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-`Kafka` `MQTT` `Mosquitto` `Distributed Systems` `Event-Driven`
+`Kafka` `MQTT` `Mosquitto` `Kubernetes` `Distributed Systems` `Event-Driven`
 
 ---
 
