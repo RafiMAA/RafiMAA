@@ -43,8 +43,6 @@ My coursework and projects span **embedded systems, computer networking, robotic
 
 # 🚀 Featured Projects
 
-## 🤖 Robotics • Autonomous Systems • Embedded Intelligence
-
 ### 🦾 Unitree G1 EDU Robot
 **Humanoid Robotics • ROS 2 • Localization • Navigation • LLM + RAG**
 
