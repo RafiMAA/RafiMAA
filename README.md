@@ -21,23 +21,26 @@
 
 # 👨‍💻 About Me
 
-I'm a **Computer Science & Engineering undergraduate at the University of Moratuwa, Sri Lanka**, with strong interests across **robotics, artificial intelligence, computer vision, embedded systems, networking, and autonomous systems**.
+I'm a **Computer Science & Engineering undergraduate at the University of Moratuwa, Sri Lanka**, who builds **full-stack applications, AI-powered systems and distributed software**, and enjoys shipping things that real people use.
 
-My coursework and projects span **embedded systems, computer networking, robotics, and IoT**, and I like exploring intelligent systems from both the **physical engineering** side and the **computational/AI** side — where sensors, embedded controllers, and machine learning models have to work together reliably in the real world.
+I built and deployed a **production attendance and student management platform for Al Meera Ahadiya School, Matara (~700 students)**, using **React, FastAPI and Supabase (PostgreSQL)**, with role-based access, PDF/Excel reporting, a mobile app and scheduled push notifications. I've also built an **LLM-based RAG system** and worked on **event-driven distributed systems** using Kafka, MQTT and Kubernetes.
+
+Alongside software, I work in **robotics and embedded systems** (ROS 2, autonomous navigation, humanoid robots, FPGA), where sensors, controllers and machine learning models have to work together reliably in the real world.
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Full--Stack-React_%7C_FastAPI-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM_%26_RAG-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Distributed_Systems-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/Robotics-00AEEF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer_Vision-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embedded_Systems-0F766E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-<img src="https://img.shields.io/badge/Networking-00E5A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedded_Systems-0F766E?style=for-the-badge"/>
 
 </div>
 
 > ### 🎯 Current Focus
-> **Robotics + Autonomous Systems + Artificial Intelligence + Embedded Intelligence**
+> **Full-Stack Development + AI / LLM Applications + Distributed Systems, with a long-term focus on Robotics & Autonomous Systems**
 
 ---
 
