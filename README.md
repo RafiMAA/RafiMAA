@@ -54,7 +54,7 @@ A production attendance and student management platform built for **Al Meera Aha
 - Excel import wizard with row-level validation, plus automated PDF (ReportLab) and Excel (OpenPyXL) reports
 - End-to-end ownership: requirements, UI, API design, database schema, deployment and client support
 
-<a href="mailto:abdulr.23@cse.mrt.ac.lk?subject=Code%20access%20request%3A%20Ahadiya%20School%20Management%20System"><img src="https://img.shields.io/badge/Private_Repo-Access_on_Request-64748B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/RafiMAA/School_Student_Management_System.git"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 `React` `TypeScript` `React Native` `FastAPI` `Supabase` `PostgreSQL` `Python` `Web Push` `GitHub Actions`
 
