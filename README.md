@@ -74,7 +74,7 @@ Working with the Unitree G1 humanoid robot on robotic localization and navigatio
 - Real-world robotic experimentation
 
 <a href="https://github.com/RafiMAA/Unitree_G1_EDU_Robot"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/RafiMAA/Unitree_G1_EDU_Robot/blob/main/docs/paper/g1_paper.pdf"><img src="https://img.shields.io/badge/Paper-Read_PDF-0EA5E9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+<a href="https://github.com/RafiMAA/Unitree_G1_EDU_Robot/blob/f5134e8c5424f13ccc09694337266d48714b3adb/docs/report/g1_report.pdf"><img src="https://img.shields.io/badge/Paper-Read_PDF-0EA5E9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 
 `Unitree G1` `ROS 2` `Python` `Robotics` `Navigation` `LLM` `RAG`
 
