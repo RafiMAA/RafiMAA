@@ -92,7 +92,7 @@ Autonomous indoor navigation project focused on mapping an environment and navig
 - Goal navigation
 
 <a href="https://github.com/RafiMAA/Qbot_mapping_and_navigating_to_the_goal"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/RafiMAA/Qbot_mapping_and_navigating_to_the_goal/blob/main/docs/paper/qbot_paper.pdf"><img src="https://img.shields.io/badge/Report-Read_PDF-22C55E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+<a href="https://github.com/RafiMAA/Qbot_mapping_and_navigating_to_the_goal/blob/be72d01b4c70d59011fe59a467bfc52ddcf8f1c3/docs/report/qbot_paper.pdf"><img src="https://img.shields.io/badge/Report-Read_PDF-22C55E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 
 `ROS 2` `SLAM` `LiDAR` `Nav2` `Python`
 
@@ -110,7 +110,7 @@ An autonomous reservoir-survey platform integrating mission planning, robotic na
 - Real-time telemetry & 3D visualization
 
 <a href="https://github.com/RafiMAA/ROS2_Autonomous_Bathymetric_Survey_System_with_Ardupilot"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/RafiMAA/ROS2_Autonomous_Bathymetric_Survey_System_with_Ardupilot/blob/main/docs/paper/bathymetric_survey_paper.pdf"><img src="https://img.shields.io/badge/Report-Read_PDF-14B8A6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+<a href="https://github.com/RafiMAA/ROS2_Autonomous_Bathymetric_Survey_System_with_Ardupilot/blob/99caa06d9c093e2361772368eddefa4fb9d4c2b5/docs/report/bathymetric_survey_paper.pdf"><img src="https://img.shields.io/badge/Report-Read_PDF-14B8A6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 
 `ROS 2` `ArduPilot` `Gazebo` `OpenCV` `React`
 
