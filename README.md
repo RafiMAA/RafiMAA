@@ -79,6 +79,24 @@ Working with the Unitree G1 humanoid robot on robotic localization and navigatio
 `Unitree G1` `ROS 2` `Python` `Robotics` `Navigation` `LLM` `RAG`
 
 ---
+### 💊 Easy Pharma — Prescription OCR Pipeline
+**Healthcare AI • OCR • React PWA • FastAPI • Computer Vision**
+
+A prescription-scanning web application that converts prescription images into structured, reviewable medicine lists. It uses a hybrid OCR pipeline with local processing by default and an optional cloud fallback for low-confidence scans.
+
+**Highlights**
+- React + Vite Progressive Web App with camera capture, mobile-responsive design and offline app-shell support
+- FastAPI backend with OpenCV preprocessing: orientation correction, resizing, optional deskewing, adaptive thresholding and denoising
+- Local Tesseract OCR with optional AWS Textract fallback for low-confidence extraction
+- Prescription parser extracts dosage values such as `mg`, `mcg`, `g` and `ml`
+- RapidFuzz-based medicine matching corrects likely OCR spelling errors against a medicine dataset
+- Evaluation utilities for OCR quality (CER/WER), structured recognition and end-to-end latency
+
+<a href="https://github.com/RafiMAA/Easypharma_OCR_Pipeline"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+`React` `TypeScript` `Vite PWA` `FastAPI` `Python` `OpenCV` `Tesseract OCR` `AWS Textract` `RapidFuzz`
+
+---
 
 ### 🚗 QBot Mapping & Navigation
 **ROS 2 • SLAM • LiDAR • Autonomous Navigation**
