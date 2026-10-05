@@ -153,6 +153,24 @@ A hardware-oriented processor implementation built as a digital systems and FPGA
 
 # 🤝 Group Projects
 
+### 🚚 Kandypack Distribution System
+**Semester 03 Group Project • React • Node.js • Express • MySQL • REST API**
+
+A full-stack logistics and distribution management system developed for a hybrid rail-and-road supply chain, replacing manual Excel-based operations with a centralized web-based platform.
+
+**Highlights**
+- Built a React-based dashboard with a Node.js/Express REST API and MySQL relational database
+- Designed the database schema with triggers and stored procedures to enforce business rules and maintain data consistency
+- Implemented order lead-time validation, train capacity constraints, staff working-hour limits and schedule conflict prevention
+- Developed JWT-based role-based access control for Admins, Drivers and Assistants
+- Implemented automated order-to-train-trip allocation and reporting for sales, driver working hours and truck utilization
+
+<a href="https://github.com/DinuuCoder/kandypack_project"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+`React` `JavaScript` `Node.js` `Express.js` `MySQL` `REST API` `JWT`
+
+---
+
 ### 🚌 OnTime Distributed Transit System
 **Semester 04 Group Project • Kafka • MQTT • Kubernetes • Distributed Systems**
 
@@ -167,8 +185,6 @@ A distributed transit platform built as a team project, with services communicat
 <a href="https://github.com/OnTime-SE-G/ontime-g4"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 `Kafka` `MQTT` `Mosquitto` `Kubernetes` `Distributed Systems` `Event-Driven`
-
----
 
 # 🗂️ More Projects
 
