@@ -172,19 +172,22 @@ A full-stack logistics and distribution management system developed for a hybrid
 ---
 
 ### 🚌 OnTime Distributed Transit System
-**Semester 04 Group Project • Kafka • MQTT • Kubernetes • Distributed Systems**
+**Semester 04 Group Project • Distributed Systems • Kafka • MQTT • FastAPI • Redis • Kubernetes**
 
-A distributed transit platform built as a team project, with services communicating through an event-driven architecture and deployed on Kubernetes.
+A distributed public-transit platform built using an event-driven architecture. I contributed to the messaging backbone responsible for real-time transport telemetry, inter-service communication and live data delivery across distributed services.
 
 **Highlights**
-- Kafka-based event-driven communication
-- Mosquitto MQTT broker integration and configuration for real-time messaging between services
-- Kubernetes-based deployment and orchestration of the platform's services
-- Contributions to the system's distributed messaging and communication infrastructure
+- Developed the messaging backbone using HiveMQ MQTT, Apache Kafka, WebSockets and Redis for real-time telemetry and inter-service communication
+- Configured Apache Kafka in KRaft mode with partitioned and replicated topics for raw telemetry, cleaned telemetry, anomaly alerts, dead-letter messages and trip lifecycle events
+- Integrated an MQTT-to-Kafka ingestion pipeline for forwarding incoming transport telemetry into Kafka
+- Integrated a FastAPI WebSocket service with Redis pub/sub to support real-time data delivery to downstream services
+- Contributed to Docker Compose and Kubernetes-based deployment, service integration, smoke testing and end-to-end messaging verification
 
 <a href="https://github.com/OnTime-SE-G/ontime-g4"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/OnTime-SE-G/ontime-g4/tree/main/epic-01-messaging"><img src="https://img.shields.io/badge/Messaging_Epic-View_Work-0EA5E9?style=for-the-badge&logo=apachekafka&logoColor=white"/></a>
 
-`Kafka` `MQTT` `Mosquitto` `Kubernetes` `Distributed Systems` `Event-Driven`
+`Apache Kafka` `KRaft` `HiveMQ` `MQTT` `FastAPI` `WebSockets` `Redis` `Docker` `Kubernetes` `Distributed Systems`
+
 
 # 🗂️ More Projects
 
