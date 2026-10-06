@@ -60,6 +60,66 @@ A production attendance and student management platform built for **Al Meera Aha
 
 ---
 
+### 💊 Easy Pharma — Prescription OCR Pipeline
+**Healthcare AI • OCR • React PWA • FastAPI • Computer Vision**
+
+A prescription-scanning web application that converts prescription images into structured, reviewable medicine lists. It uses a hybrid OCR pipeline with local processing by default and an optional cloud fallback for low-confidence scans.
+
+**Highlights**
+- React + Vite Progressive Web App with camera capture, mobile-responsive design and offline app-shell support
+- FastAPI backend with OpenCV preprocessing: orientation correction, resizing, optional deskewing, adaptive thresholding and denoising
+- Local Tesseract OCR with optional AWS Textract fallback for low-confidence extraction
+- Prescription parser extracts dosage values such as `mg`, `mcg`, `g` and `ml`
+- RapidFuzz-based medicine matching corrects likely OCR spelling errors against a medicine dataset
+- Evaluation utilities for OCR quality (CER/WER), structured recognition and end-to-end latency
+
+<a href="https://github.com/RafiMAA/Easypharma_OCR_Pipeline"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+`React` `TypeScript` `Vite PWA` `FastAPI` `Python` `OpenCV` `Tesseract OCR` `AWS Textract` `RapidFuzz`
+
+---
+
+# 🤝 Group Projects
+
+### 🚚 Kandypack Distribution System
+**Semester 03 Group Project • React • Node.js • Express • MySQL • REST API**
+
+A full-stack logistics and distribution management system developed for a hybrid rail-and-road supply chain, replacing manual Excel-based operations with a centralized web-based platform.
+
+**Highlights**
+- Built a React-based dashboard with a Node.js/Express REST API and MySQL relational database
+- Designed the database schema with triggers and stored procedures to enforce business rules and maintain data consistency
+- Implemented order lead-time validation, train capacity constraints, staff working-hour limits and schedule conflict prevention
+- Developed JWT-based role-based access control for Admins, Drivers and Assistants
+- Implemented automated order-to-train-trip allocation and reporting for sales, driver working hours and truck utilization
+
+<a href="https://github.com/DinuuCoder/kandypack_project"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+`React` `JavaScript` `Node.js` `Express.js` `MySQL` `REST API` `JWT`
+
+---
+
+### 🚌 OnTime Distributed Transit System
+**Semester 04 Group Project • Distributed Systems • Kafka • MQTT • FastAPI • Redis • Kubernetes**
+
+A distributed public-transit platform built using an event-driven architecture. I contributed to the messaging backbone responsible for real-time transport telemetry, inter-service communication and live data delivery across distributed services.
+
+**Highlights**
+- Developed the messaging backbone using HiveMQ MQTT, Apache Kafka, WebSockets and Redis for real-time telemetry and inter-service communication
+- Configured Apache Kafka in KRaft mode with partitioned and replicated topics for raw telemetry, cleaned telemetry, anomaly alerts, dead-letter messages and trip lifecycle events
+- Integrated an MQTT-to-Kafka ingestion pipeline for forwarding incoming transport telemetry into Kafka
+- Integrated a FastAPI WebSocket service with Redis pub/sub to support real-time data delivery to downstream services
+- Contributed to Docker Compose and Kubernetes-based deployment, service integration, smoke testing and end-to-end messaging verification
+
+<a href="https://github.com/OnTime-SE-G/ontime-g4"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/OnTime-SE-G/ontime-g4/tree/main/epic-01-messaging"><img src="https://img.shields.io/badge/Messaging_Epic-View_Work-0EA5E9?style=for-the-badge&logo=apachekafka&logoColor=white"/></a>
+
+`Apache Kafka` `KRaft` `HiveMQ` `MQTT` `FastAPI` `WebSockets` `Redis` `Docker` `Kubernetes` `Distributed Systems`
+
+---
+
+# 🤖 Robotics & Embedded Systems Projects
+
 ### 🦾 Unitree G1 EDU Robot
 **Humanoid Robotics • ROS 2 • Localization • Navigation • LLM + RAG**
 
@@ -77,24 +137,6 @@ Working with the Unitree G1 humanoid robot on robotic localization and navigatio
 <a href="https://github.com/RafiMAA/Unitree_G1_EDU_Robot/blob/main/docs/report/g1_paper.pdf"><img src="https://img.shields.io/badge/Report-Read_PDF-0EA5E9?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
 
 `Unitree G1` `ROS 2` `Python` `Robotics` `Navigation` `LLM` `RAG`
-
----
-### 💊 Easy Pharma — Prescription OCR Pipeline
-**Healthcare AI • OCR • React PWA • FastAPI • Computer Vision**
-
-A prescription-scanning web application that converts prescription images into structured, reviewable medicine lists. It uses a hybrid OCR pipeline with local processing by default and an optional cloud fallback for low-confidence scans.
-
-**Highlights**
-- React + Vite Progressive Web App with camera capture, mobile-responsive design and offline app-shell support
-- FastAPI backend with OpenCV preprocessing: orientation correction, resizing, optional deskewing, adaptive thresholding and denoising
-- Local Tesseract OCR with optional AWS Textract fallback for low-confidence extraction
-- Prescription parser extracts dosage values such as `mg`, `mcg`, `g` and `ml`
-- RapidFuzz-based medicine matching corrects likely OCR spelling errors against a medicine dataset
-- Evaluation utilities for OCR quality (CER/WER), structured recognition and end-to-end latency
-
-<a href="https://github.com/RafiMAA/Easypharma_OCR_Pipeline"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-`React` `TypeScript` `Vite PWA` `FastAPI` `Python` `OpenCV` `Tesseract OCR` `AWS Textract` `RapidFuzz`
 
 ---
 
@@ -150,44 +192,6 @@ A hardware-oriented processor implementation built as a digital systems and FPGA
 `VHDL` `FPGA` `Digital Systems` `Processor`
 
 ---
-
-# 🤝 Group Projects
-
-### 🚚 Kandypack Distribution System
-**Semester 03 Group Project • React • Node.js • Express • MySQL • REST API**
-
-A full-stack logistics and distribution management system developed for a hybrid rail-and-road supply chain, replacing manual Excel-based operations with a centralized web-based platform.
-
-**Highlights**
-- Built a React-based dashboard with a Node.js/Express REST API and MySQL relational database
-- Designed the database schema with triggers and stored procedures to enforce business rules and maintain data consistency
-- Implemented order lead-time validation, train capacity constraints, staff working-hour limits and schedule conflict prevention
-- Developed JWT-based role-based access control for Admins, Drivers and Assistants
-- Implemented automated order-to-train-trip allocation and reporting for sales, driver working hours and truck utilization
-
-<a href="https://github.com/DinuuCoder/kandypack_project"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-`React` `JavaScript` `Node.js` `Express.js` `MySQL` `REST API` `JWT`
-
----
-
-### 🚌 OnTime Distributed Transit System
-**Semester 04 Group Project • Distributed Systems • Kafka • MQTT • FastAPI • Redis • Kubernetes**
-
-A distributed public-transit platform built using an event-driven architecture. I contributed to the messaging backbone responsible for real-time transport telemetry, inter-service communication and live data delivery across distributed services.
-
-**Highlights**
-- Developed the messaging backbone using HiveMQ MQTT, Apache Kafka, WebSockets and Redis for real-time telemetry and inter-service communication
-- Configured Apache Kafka in KRaft mode with partitioned and replicated topics for raw telemetry, cleaned telemetry, anomaly alerts, dead-letter messages and trip lifecycle events
-- Integrated an MQTT-to-Kafka ingestion pipeline for forwarding incoming transport telemetry into Kafka
-- Integrated a FastAPI WebSocket service with Redis pub/sub to support real-time data delivery to downstream services
-- Contributed to Docker Compose and Kubernetes-based deployment, service integration, smoke testing and end-to-end messaging verification
-
-<a href="https://github.com/OnTime-SE-G/ontime-g4"><img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/OnTime-SE-G/ontime-g4/tree/main/epic-01-messaging"><img src="https://img.shields.io/badge/Messaging_Epic-View_Work-0EA5E9?style=for-the-badge&logo=apachekafka&logoColor=white"/></a>
-
-`Apache Kafka` `KRaft` `HiveMQ` `MQTT` `FastAPI` `WebSockets` `Redis` `Docker` `Kubernetes` `Distributed Systems`
-
 
 # 🗂️ More Projects
 
