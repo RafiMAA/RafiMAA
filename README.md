@@ -30,7 +30,6 @@ I also work on **distributed systems** (Kafka, MQTT, Kubernetes).
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/LLM_%26_RAG-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Robotics-00AEEF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
 
 </div>
 
