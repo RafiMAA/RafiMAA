@@ -201,7 +201,7 @@ A hardware-oriented processor implementation built as a digital systems and FPGA
 Sri Lanka
 
 </div>
-
+---
 
 # 🤝 Let's Build Something Interesting
 
