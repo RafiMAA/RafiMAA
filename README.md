@@ -191,23 +191,23 @@ A hardware-oriented processor implementation built as a digital systems and FPGA
 
 ---
 
-
 # 🎓 Education
 
 <div align="center">
 
 ### University of Moratuwa
+
 **B.Sc. Engineering — Computer Science & Engineering**
+
 Sri Lanka
 
 </div>
+
 ---
 
 # 🤝 Let's Build Something Interesting
 
 <div align="center">
-
-
 
 <a href="mailto:abdulr.23@cse.mrt.ac.lk"><img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/abdul-rafima"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
