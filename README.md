@@ -23,7 +23,7 @@
 
 I'm a **Computer Science & Engineering undergraduate at the University of Moratuwa, Sri Lanka**. I build **full-stack applications and AI-powered systems**, including a production attendance platform for a school of ~700 students (React, FastAPI, Supabase) and an LLM-based RAG system.
 
-I also work on **distributed systems** (Kafka, MQTT, Kubernetes) and, above all, **robotics and embedded systems** (ROS 2, autonomous navigation, humanoid robots).
+I also work on **distributed systems** (Kafka, MQTT, Kubernetes).
 
 <div align="center">
 
@@ -36,7 +36,7 @@ I also work on **distributed systems** (Kafka, MQTT, Kubernetes) and, above all,
 </div>
 
 > ### 🎯 Current Focus
-> **Full-Stack Development + AI / LLM Applications + Distributed Systems, with a focus on Robotics & Autonomous Systems**
+> **Full-Stack Development + AI / LLM Applications + Distributed Systems**
 
 ---
 
@@ -116,9 +116,9 @@ A distributed public-transit platform built using an event-driven architecture. 
 
 `Apache Kafka` `KRaft` `HiveMQ` `MQTT` `FastAPI` `WebSockets` `Redis` `Docker` `Kubernetes` `Distributed Systems`
 
----
 
-# 🤖 Robotics & Embedded Systems Projects
+
+# Other Projects
 
 ### 🦾 Unitree G1 EDU Robot
 **Humanoid Robotics • ROS 2 • Localization • Navigation • LLM + RAG**
@@ -193,88 +193,6 @@ A hardware-oriented processor implementation built as a digital systems and FPGA
 
 ---
 
-# 🗂️ More Projects
-
-### 🧪 More Robotics & Embedded Work
-Additional robotics, embedded, simulation and hardware projects across my repositories.
-
-**Areas:** Robot simulation · Embedded systems · Digital systems · Sensor integration · Autonomous systems
-
-<a href="https://github.com/RafiMAA?tab=repositories"><img src="https://img.shields.io/badge/View_All_Projects-7C3AED?style=flat-square&logo=github&logoColor=white"/></a>
-
----
-
-### 💻 Software & Networking Projects
-Additional projects covering backend development, computer networking, APIs and engineering tools.
-
-**Areas:** Python · C++ · JavaScript · Networking · FastAPI · React · Node.js
-
-<a href="https://github.com/RafiMAA?tab=repositories"><img src="https://img.shields.io/badge/View_Repositories-7C3AED?style=flat-square&logo=github&logoColor=white"/></a>
-
-<div align="center">
-<br/>
-<a href="https://github.com/RafiMAA?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
-</div>
-
----
-
-# 🔬 Technical Interests
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🤖 Robotics & Autonomous Systems
-ROS 2 · Autonomous navigation · Localization · SLAM · LiDAR-based perception · Robot simulation · Mission planning · Humanoid robotics
-
-</td>
-<td width="50%" valign="top">
-
-## 🧠 AI & LLM Applications
-LLMs · Retrieval-Augmented Generation (RAG) · Computer vision · AI-powered applications
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-## 🔌 Embedded Systems & Networking
-Microcontrollers · Arduino · ESP32 · FPGA · VHDL · Computer networking · IoT · Real-time systems · Digital system design
-
-</td>
-<td width="50%" valign="top">
-
-## 💻 Software Engineering
-Python · C++ · Java · JavaScript · TypeScript · FastAPI · React · Node.js · REST APIs · MySQL · Git · Linux
-
-</td>
-</tr>
-</table>
-
----
-
-# 🧰 Technical Stack
-
-<div align="center">
-
-## 🤖 Robotics • Autonomous Systems
-<img src="https://skillicons.dev/icons?i=ros,linux&theme=dark"/>
-
-<img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/Nav2-0EA5E9?style=for-the-badge"/> <img src="https://img.shields.io/badge/SLAM-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/LiDAR-0891B2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge"/> <img src="https://img.shields.io/badge/ArduPilot-0D7FBD?style=for-the-badge"/>
-
-## 🔌 Embedded • Networking • Hardware
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark"/>
-
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/ESP32-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/VHDL-543978?style=for-the-badge"/> <img src="https://img.shields.io/badge/FPGA-334155?style=for-the-badge"/> <img src="https://img.shields.io/badge/Networking-0EA5E9?style=for-the-badge"/> <img src="https://img.shields.io/badge/IoT-0EA5E9?style=for-the-badge"/>
-
-## 💻 Programming • Development
-<img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,git,github,vscode,linux&theme=dark"/>
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-</div>
-
----
 
 # 🎓 Education
 
@@ -286,54 +204,12 @@ Sri Lanka
 
 </div>
 
----
-
-# 🌟 Engineering & Research Values
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### ⚡
-**Engineering First**
-Understand the physical system, constraints and operating environment.
-
-</td>
-<td align="center" width="25%">
-
-### 🧠
-**Intelligent Systems**
-Use automation and AI where they meaningfully improve the system.
-
-</td>
-<td align="center" width="25%">
-
-### 📊
-**Measurement**
-Support decisions and conclusions with quantitative evaluation.
-
-</td>
-<td align="center" width="25%">
-
-### 🔁
-**Reproducibility**
-Build experiments and systems that can be understood, tested and repeated.
-
-</td>
-</tr>
-</table>
-
----
 
 # 🤝 Let's Build Something Interesting
 
 <div align="center">
 
-Interested in engineering, research and collaboration involving
 
-### 🤖 Robotics & Autonomous Systems · 💻 Full-Stack & LLM Applications · 🔌 Embedded Systems & Networking
-
-<br/>
 
 <a href="mailto:abdulr.23@cse.mrt.ac.lk"><img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/abdul-rafima"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
